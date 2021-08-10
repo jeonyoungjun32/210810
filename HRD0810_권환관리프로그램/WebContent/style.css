@@ -1,0 +1,34 @@
+
+*{
+	margin: 0 ;
+	padding: 0;
+}
+네비{
+	height: 100px;
+	background: gray;
+	color: white;
+}
+
+
+head{
+	text-align: center;
+	height: 100px;
+}
+footer{
+	border: 1px;
+	background-color: #4C0B5F;
+	color: white;
+	margin-top: 20px;
+	height: 100px;
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+ol{
+	margin: 20px;
+}
+수강생등록{
+	margin: 0 auto;
+	border: 1px black;
+}
